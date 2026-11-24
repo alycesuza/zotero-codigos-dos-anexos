@@ -1,6 +1,6 @@
 {
-  "name": "zotero-attachment-codes",
-  "version": "0.1.0",
+  "name": "zotero-codigos-dos-anexos",
+  "version": "0.1.1",
   "private": true,
   "description": "Exibe automaticamente os códigos das pastas dos anexos em uma coluna independente.",
   "license": "AGPL-3.0-only",

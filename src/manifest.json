@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
-  "name": "Código do anexo",
-  "version": "0.1.0",
+  "name": "Códigos dos Anexos",
+  "version": "0.1.1",
   "description": "Exibe automaticamente os códigos das pastas dos anexos em uma coluna independente.",
   "author": "Alyce Suza",
-  "homepage_url": "https://github.com/alycesuza/zotero-attachment-codes",
+  "homepage_url": "https://github.com/alycesuza/zotero-codigos-dos-anexos",
   "applications": {
     "zotero": {
       "id": "zotero-attachment-codes@alycesuza.github.io",
-      "update_url": "https://github.com/alycesuza/zotero-attachment-codes/releases/latest/download/updates.json",
+      "update_url": "https://github.com/alycesuza/zotero-codigos-dos-anexos/releases/latest/download/updates.json",
       "strict_min_version": "10.0",
       "strict_max_version": "10.0.*"
     }
